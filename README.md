@@ -23,11 +23,11 @@
 运行命令：
 ```bash
 qemu-system-x86_64 -kernel fob.elf
-
+```
 如果报错……那就是你的问题，不是我的。
 
 命令列表
-help – 显示这个列表（其实你看这README就行了）
+help – 显示这个列表
 
 hello – 打个招呼
 
